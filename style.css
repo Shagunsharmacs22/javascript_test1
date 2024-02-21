@@ -1,0 +1,56 @@
+.skettch{
+
+    width: 40%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    background-size: cover;
+    left: 0;
+  
+}
+.side{
+    display: flex;
+}
+.up{
+    margin-top: 150px;
+    margin-left: 700px;
+     text-align: center;
+}
+.size{
+    font-size: 50px;
+}
+.but{
+    height: 40px;
+    width: 200px;
+    background-color: rgba(239, 226, 226, 0.566);
+    border: none;
+    font-weight: bolder;
+    
+}
+.but:hover{
+    background-color: rgba(150, 126, 126, 0.425);
+}
+.mid{
+    margin-left: 610px;
+    margin-top: 150px;
+}
+.images{
+    display: flex;
+}
+.fix{
+    height: 350px;
+    width: 400px;
+}
+.fixx{
+    height: 380px;
+    width: 350px;
+}
+.second{
+    margin-right: 0px;
+}
+.w3-border{
+    margin-top: 20px;
+}
+.right{
+    margin-left: 7px;
+}
